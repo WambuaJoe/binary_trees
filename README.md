@@ -1,5 +1,5 @@
 <h1>0x1D. C - Binary trees</h1>
-<h2>Overview</h2>
+# Overview
 <p>
 	This C project focuses on the implementation and understanding of binary trees. It covers fundamental concepts such as what a binary tree is, the difference between a binary tree and a Binary Search Tree (BST), time complexity advantages compared to linked lists, and various properties of binary trees including depth, height, size, and different traversal methods.
 </p>
