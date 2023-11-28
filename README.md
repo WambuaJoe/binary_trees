@@ -48,7 +48,7 @@
 <h3>Data structures</h3>
 <ul>
 	<li><strong>Basic Binary Tree<strong><br>
-	```c
+	```
 	/**
 	 * struct binary_tree_s - Binary tree node
 	 *
