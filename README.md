@@ -69,6 +69,7 @@ struct binary_tree_s
 typedef struct binary_tree_s binary_tree_t;
 ```
 <li>Binary Search Tree</li>
+
 ```
 typedef struct binary_tree_s bst_t;
 ```
