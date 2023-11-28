@@ -46,11 +46,9 @@
 </ol>
 <h2>Getting started</h2>
 <h3>Data structures</h3>
-<ul>
-	<li><strong>Basic Binary Tree</strong><br>
+##### Basic Binary Tree
 ```
 (hbnb) create BaseModel
 3aa5babc-efb6-4041-bfe9-3cc9727588f8
 (hbnb)                   
-```</li>
-</ul>
+```
