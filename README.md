@@ -6,7 +6,7 @@
 
 [Getting Started](https://github.com/WambuaJoe/binary_trees/blob/main/README.md#getting-started)
 
-* [Data Structures](https://github.com/WambuaJoe/binary_trees/blob/main/README.md#data-structures)
+* [Data Structures](https://github.com/WambuaJoe/binary_trees/blob/main/README.md#data-structure)
 * [Print Function](https://github.com/WambuaJoe/binary_trees/blob/main/README.md#print-function)
 ## 
 ## Overview
