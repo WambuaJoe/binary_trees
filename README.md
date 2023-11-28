@@ -46,9 +46,23 @@
 </ol>
 <h2>Getting started</h2>
 <h3>Data structures</h3>
-##### Basic Binary Tree
-```
-(hbnb) create BaseModel
-3aa5babc-efb6-4041-bfe9-3cc9727588f8
-(hbnb)                   
+Basic Binary Tree
+```c
+/**
+ * struct binary_tree_s - Binary tree node
+ *
+ * @n: Integer stored in the node
+ * @parent: Pointer to the parent node
+ * @left: Pointer to the left child node
+ * @right: Pointer to the right child node
+ */
+struct binary_tree_s
+{
+    int n;
+    struct binary_tree_s *parent;
+    struct binary_tree_s *left;
+    struct binary_tree_s *right;
+};
+
+typedef struct binary_tree_s binary_tree_t;
 ```
