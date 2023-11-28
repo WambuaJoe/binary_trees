@@ -1,9 +1,15 @@
-<h1>0x1D. C - Binary trees</h1>
-<h2>Overview</h2>
-<p>
-	This C project focuses on the implementation and understanding of binary trees. It covers fundamental concepts such as what a binary tree is, the difference between a binary tree and a Binary Search Tree (BST), time complexity advantages compared to linked lists, and various properties of binary trees including depth, height, size, and different traversal methods.
-</p>
-<h2>Learning Objectives</h2>
+# 0x1D. C - Binary trees
+## Table of Contents
+[Overview](https://github.com/WambuaJoe/binary_trees/blob/main/README.md#overview)
+[Learning Objectives](https://github.com/WambuaJoe/binary_trees/blob/main/README.md#learning-objectives)
+[Getting Started](https://github.com/WambuaJoe/binary_trees/blob/main/README.md#getting-started)
+* [Data Structures](https://github.com/WambuaJoe/binary_trees/blob/main/README.md#data-structures)
+* [Print Function](https://github.com/WambuaJoe/binary_trees/blob/main/README.md#print-function)
+## 
+## Overview
+
+ C project focuses on the implementation and understanding of binary trees. It covers fundamental concepts such as what a binary tree is, the difference between a binary tree and a Binary Search Tree (BST), time complexity advantages compared to linked lists, and various properties of binary trees including depth, height, size, and different traversal methods.
+## Learning Objectives
 <ol>
 	<li>
 		<strong>What is a Binary Tree?</strong><br>
@@ -44,8 +50,10 @@
 		</ul>
 	</li>
 </ol>
-<h2>Getting started</h2>
-<h3>Data structures</h3>
+
+## Getting started
+
+### Data structure
 <ul>
 	<li>Basic Binary Tree</li>
 
@@ -84,7 +92,9 @@ typedef struct binary_tree_s avl_t;
 typedef struct binary_tree_s heap_t;
 ```
 </ul>
-<h3>Print Function</h3>
+
+#
+### Print Function
 To match the examples in the tasks, you are given this function
 
 This function is used only for visualization purposes. 
