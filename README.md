@@ -1,8 +1,11 @@
 # 0x1D. C - Binary trees
 ## Table of Contents
 [Overview](https://github.com/WambuaJoe/binary_trees/blob/main/README.md#overview)
+
 [Learning Objectives](https://github.com/WambuaJoe/binary_trees/blob/main/README.md#learning-objectives)
+
 [Getting Started](https://github.com/WambuaJoe/binary_trees/blob/main/README.md#getting-started)
+
 * [Data Structures](https://github.com/WambuaJoe/binary_trees/blob/main/README.md#data-structures)
 * [Print Function](https://github.com/WambuaJoe/binary_trees/blob/main/README.md#print-function)
 ## 
