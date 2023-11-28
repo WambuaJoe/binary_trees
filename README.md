@@ -46,7 +46,7 @@
 </ol>
 <h2>Getting started</h2>
 <h3>Data structures</h3>
-Basic Binary Tree
+Basic Binary Tree<br>
 ```
 /**
  * struct binary_tree_s - Binary tree node
