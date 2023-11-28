@@ -6,11 +6,11 @@
 <h2>Learning Objectives</h2>
 <ol>
 	<li>
-		<strong>What is a Binary Tree?</strong><br>
+		<strong>What is a `Binary Tree`?</strong><br>
 		A binary tree is a hierarchical data structure composed of nodes, where each node has at most 2 children, referred to as the left child & right child.
 	</li>
 	<li>
-		<strong>Difference between a Binary Tree & a Binary Search Tree (BST)</strong><br>
+		<strong>Difference between a `Binary Tree` & a `Binary Search Tree (BST`)</strong><br>
 		While a binary tree is a general hierarchical structure, a Binary Search Tree imposes an ordering property. In a BST, for each node, all elements in its left subtree are less than the node, and all elements in its right subtree are greater.
 	</li>
 	<li>
@@ -20,27 +20,27 @@
 	<li>
 		<strong>Properties of Binary Trees</strong><br>
 		<ul>
-			<li><strong>Depth:</strong> The depth of a node is the length of the path from the root to that node.</li>
-			<li><strong>Height:</strong> The height of a tree is the length of the longest path from the root to a leaf node.</li>
-			<li><strong>Size:</strong> The size of a binary tree is the total number of nodes in the tree.</li>
+			<li><strong>`Depth`:</strong> The depth of a node is the length of the path from the root to that node.</li>
+			<li><strong>`Height`:</strong> The height of a tree is the length of the longest path from the root to a leaf node.</li>
+			<li><strong>`Size`:</strong> The size of a binary tree is the total number of nodes in the tree.</li>
 		</ul>
 	</li>
 	<li>
 		<strong>Traversal Methods</strong><br>
 		There are 3 main methods to traverse a binary tree:
 		<ul>
-			<li><strong>Inorder:</strong> Left, Root, Right</li>
-			<li><strong>Preorder:</strong> Root, Left, Right</li>
-			<li><strong>Postorder:</strong> Left, Right, Root</li>
+			<li><strong>`Inorder`:</strong> Left, Root, Right</li>
+			<li><strong>`Preorder`:</strong> Root, Left, Right</li>
+			<li><strong>`Postorder`:</strong> Left, Right, Root</li>
 		</ul>
 	</li>
 	<li>
 		<strong>Types of Binary Trees</strong><br>
 		<ul>
-			<li><strong>Complete Binary Tree:</strong> Every level is completely filled, except possibly the last level, which is filled from left to right.</li>
-			<li><strong>Full Binary Tree:</strong> every node has either 0 or 2 children.</li>
-			<li><strong>Perfect Binary Tree:</strong> A binary tree in which all the interior nodes have 2 children, and all leaf nodes are at the same level.</li>
-			<li><strong>Balanced Binary Tree:</strong> A binary tree is said to be balanced if the height of the left & right subtrees of any node differs by no more than one.</li>
+			<li><strong>`Complete Binary Tree`:</strong> Every level is completely filled, except possibly the last level, which is filled from left to right.</li>
+			<li><strong>`Full Binary Tree`:</strong> every node has either 0 or 2 children.</li>
+			<li><strong>`Perfect Binary Tree`:</strong> A binary tree in which all the interior nodes have 2 children, and all leaf nodes are at the same level.</li>
+			<li><strong>`Balanced Binary Tree`:</strong> A binary tree is said to be balanced if the height of the left & right subtrees of any node differs by no more than one.</li>
 		</ul>
 	</li>
 </ol>
