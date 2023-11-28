@@ -48,7 +48,8 @@
 <h3>Data structures</h3>
 Basic Binary Tree<br>
 
-```/**
+```
+/**
  * struct binary_tree_s - Binary tree node
  *
  * @n: Integer stored in the node
