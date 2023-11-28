@@ -47,7 +47,7 @@
 <h2>Getting started</h2>
 <h3>Data structures</h3>
 Basic Binary Tree<br>
-```c
+`
 /**
 * struct binary_tree_s - Binary tree node
 *
@@ -65,4 +65,5 @@ struct binary_tree_s
 };
 
 typedef struct binary_tree_s binary_tree_t;
-```
+
+`
