@@ -85,6 +85,9 @@ typedef struct binary_tree_s heap_t;
 ```
 </ul>
 <h2>Print Function</h2>
+To match the examples in the tasks, you are given this function
+
+This function is used only for visualization purposes. 
 
 ```
                            .----------------------(006)-------.
