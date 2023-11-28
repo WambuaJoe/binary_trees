@@ -37,10 +37,10 @@
 	<li>
 		<strong>Types of Binary Trees</strong><br>
 		<ul>
-			<li><strong>Complete Binary Tree:</strong> every level is completely filled, except possibly the last level, which is filled from left to right.</li>
+			<li><strong>Complete Binary Tree:</strong> Every level is completely filled, except possibly the last level, which is filled from left to right.</li>
 			<li><strong>Full Binary Tree:</strong> every node has either 0 or 2 children.</li>
-			<li><strong>Perfect Binary Tree:</strong> a binary tree in which all the interior nodes have 2 children, and all leaf nodes are at the same level.</li>
-			<li><strong>Balanced Binary Tree:</strong> a binary tree is said to be balanced if the height of the left & right subtrees of any node differ by no more than one.</li>
+			<li><strong>Perfect Binary Tree:</strong> A binary tree in which all the interior nodes have 2 children, and all leaf nodes are at the same level.</li>
+			<li><strong>Balanced Binary Tree:</strong> A binary tree is said to be balanced if the height of the left & right subtrees of any node differs by no more than one.</li>
 		</ul>
 	</li>
 </ol>
@@ -48,21 +48,21 @@
 <h3>Data structures</h3>
 Basic Binary Tree<br>
 ```
-/**
- * struct binary_tree_s - Binary tree node
- *
- * @n: Integer stored in the node
- * @parent: Pointer to the parent node
- * @left: Pointer to the left child node
- * @right: Pointer to the right child node
- */
-struct binary_tree_s
-{
-    int n;
-    struct binary_tree_s *parent;
-    struct binary_tree_s *left;
-    struct binary_tree_s *right;
-};
-
-typedef struct binary_tree_s binary_tree_t;
+	/**
+	 * struct binary_tree_s - Binary tree node
+	 *
+	 * @n: Integer stored in the node
+	 * @parent: Pointer to the parent node
+	 * @left: Pointer to the left child node
+	 * @right: Pointer to the right child node
+	 */
+	struct binary_tree_s
+	{
+	    int n;
+	    struct binary_tree_s *parent;
+	    struct binary_tree_s *left;
+	    struct binary_tree_s *right;
+	};
+	
+	typedef struct binary_tree_s binary_tree_t;
 ```
