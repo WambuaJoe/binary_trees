@@ -73,3 +73,23 @@ typedef struct binary_tree_s binary_tree_t;
 ```
 typedef struct binary_tree_s bst_t;
 ```
+<li>AVL Tree</li>
+
+```
+typedef struct binary_tree_s avl_t;
+```
+<li>Max Binary Heap</li>
+
+```
+typedef struct binary_tree_s heap_t;
+```
+<h2>Print Function</h2>
+
+```
+                           .----------------------(006)-------.
+                      .--(001)-------.                   .--(008)--.
+                 .--(-02)       .--(003)-------.       (007)     (009)
+       .-------(-06)          (002)       .--(005)
+  .--(-08)--.                           (004)
+(-09)     (-07)
+```
