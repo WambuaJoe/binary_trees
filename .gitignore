@@ -8,7 +8,6 @@ main.c
 16-binary_tree_is_perfect.c
 17-binary_tree_sibling.c
 18-binary_tree_uncle.c
-6-binary_tree_preorder.c
 7-binary_tree_inorder.c
 8-binary_tree_postorder.c
 9-binary_tree_height.c
