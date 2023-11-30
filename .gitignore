@@ -8,7 +8,6 @@ main.c
 16-binary_tree_is_perfect.c
 17-binary_tree_sibling.c
 18-binary_tree_uncle.c
-9-binary_tree_height.c
 binary_tree_print.c
 makefile
 .vscode
