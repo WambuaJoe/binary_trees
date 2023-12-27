@@ -111,4 +111,3 @@ This function is used only for visualization purposes.
 (-09)     (-07)
 ```
 
-[Back to top](https://github.com/WambuaJoe/binary_trees/blob/main/README.md#0x1d-c---binary-trees)
