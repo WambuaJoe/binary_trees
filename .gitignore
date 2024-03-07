@@ -20,5 +20,4 @@ makefile
 8-post
 9-height
 
-104-binary_tree_rotate_right.c
 110-binary_tree_is_bst.c
